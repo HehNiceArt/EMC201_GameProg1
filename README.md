@@ -1,2 +1,2 @@
-# EMC201_GameProg1
-  Git repository for Game Programming 1
+# EMC201 Game Programming 1
+This is all my unity projects during taking the course of EMC202.
